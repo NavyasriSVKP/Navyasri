@@ -18,5 +18,6 @@ public static void main(String args[])
 	float f2=34.56f;
 	int li=(int)f2;
 	System.out.println(li);
+	
 }
 }
