@@ -39,4 +39,3 @@ public static void main(String[] args)
 			System.out.println("Phone is integrated with HealthMonitoring");
 		}
 	}
-}
